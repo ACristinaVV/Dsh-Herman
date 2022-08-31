@@ -16,4 +16,4 @@ Posteriormente, activar el ambiente virtual:
 
 Finalmente, se corre la siguiente línea:
 
-   * python app.py
+   * `python app.py`
